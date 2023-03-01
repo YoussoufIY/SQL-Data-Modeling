@@ -1,4 +1,4 @@
-# sql-challenge
+# SQL Data Modeling
 
 Data Modeling
 Inspected the CSV files, and then sketched an Entity Relationship Diagram of the tables. To create the sketch, I used QuickDBD.
