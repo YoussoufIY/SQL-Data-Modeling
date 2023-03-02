@@ -3,16 +3,24 @@
 Data Modeling
 Inspected the CSV files, and then sketched an Entity Relationship Diagram of the tables. To create the sketch, I used QuickDBD.
 
+![ERD Sketch](https://user-images.githubusercontent.com/115593434/222475944-7a4ff62b-eb46-467e-bec8-ec350a20ec51.png)
+
+
 Data Engineering
 
 Used the provided information to create a table schema for each of the six CSV files.
 
 Specified the data types, primary keys, foreign keys, and other constraints.
 
+![image](https://user-images.githubusercontent.com/115593434/222476143-4b0a0574-f67f-49a8-a4cc-588ed2eef6a3.png)
+
+
 Imported each CSV file into its corresponding SQL table.
 
 
 Data Analysis/Queries
+
+![image](https://user-images.githubusercontent.com/115593434/222476024-eb71b8ba-f51d-4d0e-bf38-d08b8c97aa08.png)
 
 Listed the employee number, last name, first name, sex, and salary of each employee.
 
